@@ -69,7 +69,7 @@ As well as variants that:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/php-obfuscation-decoder.git
+git clone https://github.com/larsonz/php-obfuscation-decoder.git
 cd php-obfuscation-decoder
 ```
 
